@@ -30,5 +30,5 @@ Mid-Level Full-stack developer who loves software design, programming, algorithm
 <img src="https://img.shields.io/badge/Firebase-333333?style=for-the-badge&logo=firebase"/>&nbsp;&nbsp;
 
 ## How to reach me:
-- Email: dragonfly4141@outlook.com
-- Skype: @DreamDev
+- Email: adanyonai@outlook.com
+- Skype: live:.cid.4d11e434da2653a0
