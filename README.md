@@ -11,13 +11,15 @@ Professional experience with React technologies like React, React Native, React 
 
 Skillful in other front-end technologies like latest Angular, Flutter and Tailwind CSS.
 
-Expert in Golang, Spring Boot, Node.js and PHP for back end and familiar with API integration between front end and back end.
+Expert in Golang, Spring Boot, Node.js and PHP for back end. Familiar with various cloud services like AWS, S3 and Azure.
 
-Interested in AI/ML with Golang and Python for data analysis.
+Interested in AI/ML for data analysis with Golang and Python.
+
+
 
 Full Stack web and mobile development with:
 
-React / Angular / Flutter / Golang / SpringBoot / Node.js / PHP
+React / Angular / Flutter / Golang / Spring Boot / Node.js / PHP
 
 <img src="https://komarev.com/ghpvc/?username=adandev1125&label=Profile%20views&color=4e982f&style=for-the-badge" alt="adandev1125" />
 
