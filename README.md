@@ -3,7 +3,21 @@
 
 ## About Me
 
-Full Stack Engineer with 6 years of experience in software industry. Proficient in developing mobile and web apps, creating games, reviewing and optimizing codes and creating and establishing new algorithms and databases. Familiar with various programming languages, libraries and frameworks for both front end and back end. Have worked with product managers, designers and other developers to create and deliver high-quality software products. Enjoy learning new skills and technologies, love to work in teams and wish to gain professional experiences in the real industry.
+Dedicated Full Stack Engineer with 6 years of experience in software industry.
+
+Build meaningful web and mobile products with the latest technologies.
+
+Professional experience with React technologies like React, React Native, React Hooks, Redux Toolkit and Enzyme.
+
+Skillful in other front-end technologies like latest Angular, Flutter and Tailwind CSS.
+
+Expert in Golang, Spring Boot, Node.js and PHP for back end and familiar with API integration between front end and back end.
+
+Interested in AI/ML with Golang and Python for data analysis.
+
+Full Stack web and mobile development with:
+
+React / Angular / Flutter / Golang / SpringBoot / Node.js / PHP
 
 <img src="https://komarev.com/ghpvc/?username=adandev1125&label=Profile%20views&color=4e982f&style=for-the-badge" alt="adandev1125" />
 
