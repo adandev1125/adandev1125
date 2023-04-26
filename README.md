@@ -3,7 +3,7 @@
 
 ## About Me
 
-Full Stack Engineer with 6 years of experience in software industry. Proficient in developing mobile and web apps, creating games, reviewing and optimizing codes and creating and establishing new algorithms and databases. Familiar with various languages, libraries and frameworks for both front end and back end. Have worked with product managers, designers and other developers to create and deliver high-quality software products. Enjoy learning new skills and technologies, love to work in teams and wish to gain professional experiences in the real industry.
+Full Stack Engineer with 6 years of experience in software industry. Proficient in developing mobile and web apps, creating games, reviewing and optimizing codes and creating and establishing new algorithms and databases. Familiar with various programming languages, libraries and frameworks for both front end and back end. Have worked with product managers, designers and other developers to create and deliver high-quality software products. Enjoy learning new skills and technologies, love to work in teams and wish to gain professional experiences in the real industry.
 
 <img src="https://komarev.com/ghpvc/?username=adandev1125&label=Profile%20views&color=4e982f&style=for-the-badge" alt="adandev1125" />
 
