@@ -16,6 +16,7 @@ Mid-Level Full-stack developer who loves software design, programming, algorithm
 <img src="https://img.shields.io/badge/C++-3eb414?style=for-the-badge"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Java-d28139?style=for-the-badge"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/SQL-9e39d2?style=for-the-badge"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Golang-4dacd7?style=for-the-badge&logo=go&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Javascript-333333?style=for-the-badge&logo=javascript"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/TypeScript-4879c7?style=for-the-badge&logo=TypeScript&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/PHP-797cb5?style=for-the-badge&logo=php&logoColor=white"/>&nbsp;&nbsp;
