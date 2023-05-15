@@ -3,23 +3,13 @@
 
 ## About Me
 
-Dedicated Full Stack Engineer with 6 years of experience in software industry.
+Motivated web and mobile full stack developer with 8 years of IT experience in all phases of SDLC.
 
-Build meaningful web and mobile products with the latest technologies.
+Create meaningful and user-friendly web and mobile apps with the latest technologies.
 
-Professional experience with React technologies like React, React Native, React Hooks, Redux Toolkit and Enzyme.
+Excellent coding and problem-solving skills with ability to work as a Developer.
 
-Skillful in other front-end technologies like latest Angular, Flutter and Tailwind CSS.
-
-Expert in Golang, Spring Boot, Node.js and PHP for back end. Familiar with various cloud services like AWS, S3 and Azure.
-
-Interested in AI/ML for data analysis with Golang and Python.
-
-
-
-Full Stack web and mobile development with:
-
-React / Angular / Flutter / Golang / Spring Boot / Node.js / PHP
+Perfect communication skills and interpersonal skills, self-motivated, hardworking individual and has strong abilities to work in a team.
 
 <img src="https://komarev.com/ghpvc/?username=adandev1125&label=Profile%20views&color=4e982f&style=for-the-badge" alt="adandev1125" />
 
