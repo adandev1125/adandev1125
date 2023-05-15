@@ -3,7 +3,7 @@
 
 ## About Me
 
-Motivated web and mobile full stack developer with 8 years of IT experience in all phases of SDLC.
+Motivated web and mobile full stack developer full of IT experience in all phases of SDLC.
 
 Create meaningful and user-friendly web and mobile apps with the latest technologies.
 
