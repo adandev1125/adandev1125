@@ -13,9 +13,6 @@ Perfect communication skills and interpersonal skills, self-motivated, hardworki
 
 <img src="https://komarev.com/ghpvc/?username=adandev1125&label=Profile%20views&color=4e982f&style=for-the-badge" alt="adandev1125" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adandev1125&show_icons=true&locale=en&layout=compact" alt="adandev1125" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=adandev1125&show_icons=true&locale=en" alt="adandev1125" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adandev1125&" alt="adandev1125" />
 
 ## Technology Stack
 ### Languages
