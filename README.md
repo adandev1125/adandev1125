@@ -42,5 +42,4 @@ Perfect communication skills and interpersonal skills, self-motivated, hardworki
 <img src="https://img.shields.io/badge/Firebase-333333?style=for-the-badge&logo=firebase"/>&nbsp;&nbsp;
 
 ## How to reach me:
-- Telegram: @dream_1125
-- Skype: live:.cid.4d11e434da2653a0
+* adanpopov.dev@gmail.com
