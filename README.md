@@ -33,7 +33,6 @@ Perfect communication skills and interpersonal skills, self-motivated, hardworki
 <img src="https://img.shields.io/badge/React Native-247cde?style=for-the-badge&logo=react&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=Angular"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/TailwindCSS-52b6d4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/CodeIgniter-de4524?style=for-the-badge&logo=codeigniter&logoColor=white"/>&nbsp;&nbsp;
 
 ### Databases
 <img src="https://img.shields.io/badge/MySQL-517aa1?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;&nbsp;
