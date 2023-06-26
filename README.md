@@ -38,6 +38,3 @@ I am a self-motivated and detail-oriented engineer who is passionate about build
 <img src="https://img.shields.io/badge/Oracle-870f0f?style=for-the-badge&logo=oracle&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/MongoDB-5ca146?style=for-the-badge&logo=mongodb&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Firebase-333333?style=for-the-badge&logo=firebase"/>&nbsp;&nbsp;
-
-## How to reach me:
-* adanpopov.dev@gmail.com
